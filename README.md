@@ -1,6 +1,6 @@
 # Trade Simulator
 
-A high-performance trade simulator that estimates transaction costs and market impact using real-time L2 market data. This project implements sophisticated market impact models, slippage estimation, and maker/taker prediction with a focus on performance optimization and real-time processing.
+A high-performance trade simulator that estimates transaction costs and market impact using real-time market data. This project implements sophisticated market impact models, slippage estimation, and maker/taker prediction with a focus on performance optimization and real-time processing.
 
 ## Features
 
