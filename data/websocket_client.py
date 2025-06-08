@@ -16,7 +16,7 @@ class WebSocketClient:
         self.start_time = None
         self.max_retries = 3
         self.retry_delay = 1  # seconds
-        self.url = f"wss://ws.gomarket-cpp.goquant.io/ws/l2-orderbook/okx/{symbol}"
+        self.url = f"YOUR_ORDERBOOK_URL"
         self.is_running = False
         self.retry_count = 0
         self._orderbook_event = asyncio.Event()
